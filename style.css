@@ -1,0 +1,27 @@
+/*CSS DOCUMENT*/
+h1{
+  color: rgb(92, 136, 166);
+  font-size:3em;
+}
+h2{
+  color: rgb(43, 91, 70);
+  font-size:2em;
+}
+h3{
+  color: rgb(122, 134, 138);
+  font-size:0.5em;
+  font-family: sans-serif;
+  text-transform: uppercase;
+}
+h4{
+  font-size:0.5em;
+  text-transform: lowercase;
+}
+
+p{
+  text-transform: lowercase;
+}
+
+body{
+  background-color: rgb(246, 241, 232);
+}
